@@ -1,0 +1,1 @@
+Started this purely so that I could use Stremio as a console-style application on my computer in my living room. This is purely a quality-of-life app so that I can control this from a controller.
